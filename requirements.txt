@@ -1,7 +1,7 @@
 requests
 lxml
 Pillow
-pytesseract
+pytesseract 0.3.7
 cssselect
 
 
